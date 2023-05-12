@@ -18,7 +18,7 @@ Run the application:
 
 Set env var `BANNER` and run the application:
 ```shell script
-set BANNER=true
+export BANNER=true
 ./build/command-mode-quickstart-gradle-1.0.0-SNAPSHOT-runner
 ```
 
